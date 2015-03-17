@@ -1,0 +1,16 @@
+Name: logstash
+Cartridge-Short-Name: logstash
+Display-Name: DSG Platform Logstash 1.4.2
+Version: "1.4.2"
+Versions: ["1.4.2"]
+Cartridge-Version: 0.0.1
+Cartridge-Vendor: dsg
+Categories:
+ - service
+ - logstash
+Provides:
+ - logstash
+Scaling:
+  Min: 1
+  Max: -1
+
