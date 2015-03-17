@@ -1,0 +1,1 @@
+# os-logstash-cartridge
